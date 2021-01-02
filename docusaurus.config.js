@@ -33,7 +33,7 @@ module.exports = {
         },
         {
           href: 'https://app.neumekca.city',
-          label: 'App',
+          label: 'App↗',
           position: 'left',
         },
         // Please keep GitHub link to the right for consistency.
@@ -56,12 +56,12 @@ module.exports = {
           title: 'Learn',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Introduction',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Feature',
+              to: 'docs/02feature',
             },
           ],
         },
@@ -69,16 +69,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Telegram Group',
+              href: 'https://t.me/neumekca/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/neumekca',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/neumekca',
             },
           ],
         },
@@ -86,8 +86,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Huobi ECO Chain',
+              href: 'https://www.hecochain.com/en-us/',
             },
             {
               label: 'GitHub',

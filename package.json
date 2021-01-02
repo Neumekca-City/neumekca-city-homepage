@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": false,
   "homepage": "https://github.com/Neumekca-City/neumekca-city-homepage.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neumekca-City/neumekca-city-homepage/"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

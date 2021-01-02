@@ -17,11 +17,12 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Cross-chain Support',
+    title: 'Based on Huobi ECO Chain',
     imageUrl: 'img/undraw_docusaurus_mountain.png',
     description: (
       <>
-        Cross-chain solutions are increasingly catching the attention of speculators within the decentralized finance ecosystem.
+        Huobi Eco Chain client based on the go-ethereum fork. The Huobi Open Platform
+         will provide global developers with series of diverse innovative facilities and services.
       </>
     ),
   },
@@ -56,7 +57,7 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
+      <h3 className="text--center">{title}</h3>
       <p>{description}</p>
     </div>
   );

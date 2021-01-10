@@ -3,7 +3,7 @@ id: heco
 title: Powered by Huobi ECO Chain
 ---
 
-LONDON, Jan. 1, 2021 /Psychiatrist/ -- Huobi Group today announced a limited rollout of Huobi ECO Chain (Heco), an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (dApps), smart contracts, and digital assets. Starting today, developers will have early access to Heco's test environment to build and experiment on the chain ahead of its upcoming public testnet launch on December 21st. 
+NEUMÉKCA CITY, Jan. 1, 2021 /Psychiatrist/ -- Huobi Group today announced a limited rollout of Huobi ECO Chain (Heco), an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (dApps), smart contracts, and digital assets. Starting today, developers will have early access to Heco's test environment to build and experiment on the chain ahead of its upcoming public testnet launch on December 21st. 
 
 Heco is the first product launched on Huobi Open Platform, a unified blockchain infrastructure platform independently developed by Huobi's technical team. As a fully decentralized, high-efficiency chain, Heco was purpose-designed to support high-performance transactions and provide smart contract compatibility, enabling high throughput, low latency, security, and stability. 
 

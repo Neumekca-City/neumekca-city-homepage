@@ -37,7 +37,7 @@ const features = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'NullSkilled by React',
     imageUrl: 'img/undraw_docusaurus_react.png',
     description: (
       <>

@@ -22,7 +22,7 @@ const features = [
     description: (
       <>
         Huobi Eco Chain client based on the go-ethereum fork. The Huobi Open Platform
-         will provide global developers with series of diverse innovative facilities and services.
+        will provide global developers with series of diverse innovative facilities and services.
       </>
     ),
   },
@@ -37,7 +37,7 @@ const features = [
     ),
   },
   {
-    title: 'NullSkilled by React',
+    title: 'Powered by React',
     imageUrl: 'img/undraw_docusaurus_react.png',
     description: (
       <>
@@ -48,7 +48,7 @@ const features = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -65,7 +65,7 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={`Hello and Welcome to ${siteConfig.title}`}
@@ -83,6 +83,15 @@ function Home() {
               to={useBaseUrl('docs/')}>
               Get Started
             </Link>
+            &emsp;
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://app.neumekca.city'>
+              Launch App↗
+            </Link>
           </div>
         </div>
       </header>
@@ -91,7 +100,7 @@ function Home() {
           <section className={styles.features}>
             <div className="container">
               <div className="row">
-                {features.map(({title, imageUrl, description}) => (
+                {features.map(({ title, imageUrl, description }) => (
                   <Feature
                     key={title}
                     title={title}

@@ -9,7 +9,7 @@
 
 module.exports = {
   someSidebar: {
-    Walkthrough: ['01intro', '02feature', '03juncture', '04chronos', '05nftcard'],
+    Walkthrough: ['01intro', '02feature', '03juncture', '04chronos', '05nftcard', '06wallet'],
     Features: ['heco'],
   },
 };

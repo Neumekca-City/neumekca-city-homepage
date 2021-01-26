@@ -38,7 +38,7 @@ module.exports = {
         },
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://t.me/neumekca/',
+          href: 'https://t.me/neumekcagroup/',
           label: 'Telegram',
           position: 'right',
         },
@@ -70,15 +70,15 @@ module.exports = {
           items: [
             {
               label: 'Telegram Group',
-              href: 'https://t.me/neumekca/',
+              href: 'https://t.me/neumekcagroup/',
             },
             {
               label: 'Twitter',
               href: 'https://twitter.com/neumekca',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/neumekca',
+              label: 'Medium',
+              href: 'https://neumekcacity.medium.com/',
             },
           ],
         },
@@ -111,9 +111,9 @@ module.exports = {
         },
       ],
       logo: {
-        alt: 'Facebook Open Source Logo',
+        alt: 'Neumékca Open Source Logo',
         src: 'img/logo.png',
-        href: 'https://opensource.facebook.com',
+        href: 'https://app.neumekca.city/',
       },
       // Please do not remove the credits, help to publicize Docusaurus :)
       copyright: `Copyright © ${new Date().getFullYear()} Neumékca, city. Built with ❤ of ZERO.`,

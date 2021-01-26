@@ -28,21 +28,22 @@ const features = [
   },
   {
     title: 'Easy to use',
-    imageUrl: 'img/undraw_docusaurus_tree.png',
+    imageUrl: 'img/chronos.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Chronos was a drug created by Leon Von Alvensleben for the Neumékca government in order to create super soldiers for the NULL project. Chronos provides the NULL soldiers with limited precognition, allowing them to preplan the outcomes of combat. It also allows for them to slow their perception of time and rewind time to a certain point.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.png',
+    title: 'NFTs Factory',
+    imageUrl: 'img/cryotank.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Characters in the Katana storyline will appear in turn as NFT cards that will bring a lot of fun for players to participate in the project.
+        A farming strategy will be developed by our team to bring fairness to everyone involved in the project, regardless of how much or how little you fund.
+        It will help for ordinary peoples with small fund 😉
+        Each project have there own unique features...
       </>
     ),
   },
@@ -69,7 +70,7 @@ function Home() {
   return (
     <Layout
       title={`Hello and Welcome to ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="The first IDO Platform based on Huobi ECO Chain">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

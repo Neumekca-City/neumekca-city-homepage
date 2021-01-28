@@ -30,7 +30,7 @@ Katana-Zero Token Metrics:
     - Team, Advisor & Marketing: 1,700,000 ZERO (8%)
     - Mining Reward: 13,570,000 ZERO (64%)
 1. Farming schedule:
-        - Week 1: (1M ZERO reward), opening 4 pools (ZERO-BNB, BNB-BUSD, BNB-BTCB, BNB-ETH), NFT market based ZERO.
+        - Week 1: (1M ZERO reward), opening 4 pools (ZERO-HT, HT-HUSD, HT-HBTC, HT-HETH), NFT market based ZERO.
         - Week 2: (1M ZERO reward), additional F15 & SNOW token farming, NFT airdrop event.
         - Week 3: (1M ZERO reward), P2P NFT market open, NFT Factory public release, BTCB-ZERO pool open.
         - Week 4: (1M ZERO reward), new NFT release, ZERO buy-back&burn."

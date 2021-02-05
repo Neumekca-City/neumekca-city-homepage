@@ -175,7 +175,7 @@
 0x637E21Ac11F0E0Cf95D926d6bd2737b059A2858a
 0x2b8416f9886A18bA8ba2bDF99037e2C2fe75EaE4
 
-### A set of three rank 1 NFT cards worth $30
+### A set of three rank 1 NFT cards worth $90
 0x0EFB75cF33A40220dE1c12d3B890285AC4ecb30A
 0xE8CccB718de63da9D498279A40D2248E4D46296B
 ###################END-OF-FILE###########################
